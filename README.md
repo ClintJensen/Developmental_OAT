@@ -3,8 +3,6 @@
 
 
 ## Description  
-Repo containing images of human drawings from children and adults  
-
 This project connects prior work with semantic dementia patients (Rogers, Hodges, Patterson, & Lambon Ralph, 2003) where a set of stimuli (adapted from Snodgrass & Vaderwart, 1980) are used to explore how visual regularities impact real vs fake decisions among paired images (Over-regular Animal Task; OAT). A subset of the stimuli used by Rogers and colleagues were used with children, and the data from that developmental group is explored within the notebooks that comprise this repo.
 
 
